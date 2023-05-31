@@ -1,0 +1,1 @@
+/data/oulu/spatial/Train_files/1_1_01_1_avi/frame4.jpg /data/oulu/depth/Train_files/1_1_01_1_avi/frame4.jpg 1
